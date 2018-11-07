@@ -1,7 +1,8 @@
 # Installation:
 
 To install mtVarCaller run install.sh
-```chmod +x install.sh
+```
+chmod +x install.sh
 ./install.sh
 ```
 # Implementation
@@ -11,4 +12,8 @@ To install mtVarCaller run install.sh
 - For this purpose BAM file should be sorted and indexed. 
 - Put BAM file, index of BAM file and reference in same directory as follows:
 
-```mtVarCaller -r reference.fa -i sample.BAM```
+```
+mtVarCaller -r reference.fa -i sample.BAM
+```
+mtVarCaller is also  available online [here]
+(http://www.dnageography.com/mtVARCaller.php).
