@@ -15,5 +15,4 @@ chmod +x install.sh
 ```
 mtVarCaller -r reference.fa -i sample.BAM
 ```
-mtVarCaller is also  available online [here]
-(http://www.dnageography.com/mtVARCaller.php).
+mtVarCaller is also  available online [here](http://www.dnageography.com/mtVARCaller.php).
