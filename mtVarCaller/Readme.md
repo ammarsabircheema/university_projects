@@ -1,3 +1,6 @@
+# Introduction
+mtVarCaller is a tool for heteroplasmy detection from mitochondrial genomes.
+
 # Installation:
 
 To install mtVarCaller run install.sh
